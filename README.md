@@ -1,4 +1,4 @@
-# Hamburg Pizzeria Sales Analysis (SQL and Excel)
+# Hamburg Pizzeria Sales Analysis (SQL and Excel) 
 
 Analysis of one year of pizzeria sales data. The data is loaded into PostgreSQL and checked for quality. Fifteen business questions are answered with SQL, and the results are presented in an Excel dashboard.
 
