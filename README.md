@@ -99,6 +99,9 @@ PostgreSQL, SQL (aggregation, subqueries, date and time functions), Microsoft Ex
 - The dataset is a practice dataset. The findings illustrate the method and do not describe a real business.
 - There is no cost or margin data, so the recommendations are based on sales volume and revenue only.
 
-## Author
+## Contact
 
-Dolly · [GitHub](https://github.com/DOLLY3210)
+**Dolly**\
+Data Analyst\
+Hamburg, Germany\
+[dollykhanna3210@gmail.com](mailto:dollykhanna3210@gmail.com)
